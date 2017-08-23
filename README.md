@@ -65,7 +65,13 @@ If you don't want to use Yarn run `npm install` to install needed Node packages.
 
 Now, from the command line, you may run `npm run watch` to watch your files for changes, and then recompile.
 
-### Run npm run production
+### Open the dev URL
+
+This setup assumes that you've set-up your local environment to use `laravel-mix-demo.dev` as your testing URL.
+
+If you use [Laravel Valet](https://laravel.com/docs/5.4/valet), all you need to do is clone this repo in a folder named `laravel-mix-demo` which is watched by Valet and you're good to go - no additional configuration needed!
+
+### Run npm run production to compile assets
 
 To compile the code so that your css and javascript files are neatly concatenated and minimized run `npm run production`. This will also minify any image assets you have in your `resources/assets/images` folder while copying the images to `public/images`.
 
