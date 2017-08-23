@@ -63,7 +63,7 @@ If you don't want to use Yarn run `npm install` to install needed Node packages.
 
 ### Run npm run watch
 
-Now, from the command line, you may run `npm run watch` to watch your files for changes, and then recompile.
+Now, from the command line, you may run `npm run watch` to watch your files for changes and then recompile.
 
 ### Open the dev URL
 
@@ -73,7 +73,7 @@ If you use [Laravel Valet](https://laravel.com/docs/5.4/valet), all you need to 
 
 ### Run npm run production to compile assets
 
-To compile the code so that your css and javascript files are neatly concatenated and minimized run `npm run production`. This will also minify any image assets you have in your `resources/assets/images` folder while copying the images to `public/images`.
+To compile the code so that your CSS and javascript files are neatly concatenated and minimized run `npm run production`. This will also minify any image assets you have in your `resources/assets/images` folder while copying the images to `public/images`.
 
 ### The webpack.mix.js file
 
