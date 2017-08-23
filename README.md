@@ -45,6 +45,10 @@ If you don't want to use Yarn run `npm install` to install needed Node packages.
 
 Now, from the command line, you may run `npm run watch` to watch your files for changes, and then recompile.
 
+### Run npm run production
+
+To compile the code so that your css and javascript files are neatly concatenated and minimized run `npm run production`. This will also minify any image assets you have in your `resources/assets/images` folder while copying the images to `public/images`.
+
 ### The webpack.mix.js file
 
 Open the `webpack.mix.js file`, and inspect the comments to learn how to use Laravel Mix through examples.
