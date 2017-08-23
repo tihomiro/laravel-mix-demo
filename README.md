@@ -1,3 +1,23 @@
+# Intro
+
+This repo contains the demo files and info as a support for my talk held at [Startit Centar](https://startit.rs/centar/) on Wednesday, August 23, 2017:
+
+## A Better Production Workflow with Laravel Mix
+
+### Brief
+
+Many web development teams fail to realize the potentials of good out-of-the box setup of module bundler tools such as webpack. So, worst-case they don't use bundlers at all! Laravel Mix succeeded in taking away the complexity of setting up the webpack bundler, making your CSS and javascript handling a simple task while improving your production workflow and overall app quality.
+
+### About me
+
+My name is Tihomir Opacic, I run development company [Orange Hill Development](https://www.orangehilldev.com/). Currently, I'm engaged in an effort to complete and publish the [Photon CMS](https://photoncms.com/) system. I'm an [IT Serbia Podcast](http://www.itserbiapodcast.com/) co-host and [CMS Podcast](http://cms-podcast.com/) show host.
+
+### Talk Video
+
+As soon as the video is released I will update this page to include the talk recording.
+
+![](https://raw.githubusercontent.com/tihomiro/laravel-mix-demo/master/resources/assets/images/test.jpeg)
+
 # What is Laravel Mix?
 
 Laravel Mix provides a clean, fluent API for defining basic webpack build steps for your Laravel application. 
