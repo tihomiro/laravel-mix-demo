@@ -1,6 +1,6 @@
 # Intro
 
-This repo contains the demo files and info as a support for my talk held at [Startit Centar](https://startit.rs/centar/) on Wednesday, August 23, 2017:
+This repo contains the demo files and info as a support for my talk held at [Startit Centar](https://startit.rs/centar/) on [Wednesday, August 23, 2017](https://www.meetup.com/Laravel-Belgrade/events/242613938/):
 
 ## A Better Production Workflow with Laravel Mix
 
