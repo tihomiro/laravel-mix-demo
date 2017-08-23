@@ -20,7 +20,7 @@ As soon as the video is released I will update this page to include the talk rec
 
 # What is Laravel Mix?
 
-Laravel Mix provides a clean, fluent API for defining basic webpack build steps for your Laravel application. 
+[Laravel Mix](https://laravel.com/docs/5.4/mix) provides a clean, fluent API for defining basic webpack build steps for your Laravel application. 
 
 Mix supports several common CSS and JavaScript pre-processors.
 
@@ -28,11 +28,11 @@ Laravel Mix ships with Browsersync support out of the box, but if you prefer, yo
 
 ## What's Webpack?
 
-Webpack is a module bundler for modern JavaScript applications. When webpack processes your application, it recursively builds a dependency graph that includes every module your application needs, then packages all of those modules into a small number of bundles - often only one - to be loaded by the browser.
+[Webpack](https://webpack.js.org/) is a module bundler for modern JavaScript applications. When webpack processes your application, it recursively builds a dependency graph that includes every module your application needs, then packages all of those modules into a small number of bundles - often only one - to be loaded by the browser.
 
 ## What's Browsersync?
 
-Browsersync features:
+[Browsersync](https://www.browsersync.io) features:
 
 * Install and run anywhere
 * Free to run and reuse
@@ -56,7 +56,7 @@ When installing node modules, most people go with `npm install`, but doing `yarn
 
 For this example installation `yarn` completed in just *28 seconds*, while `npm install` took *2 minutes and 43 seconds*!
 
-So if you don't have yarn, I recommend that you should install it and just run `yarn` to continue.
+So if you don't have [Yarn](https://yarnpkg.com/en/), I recommend that you should [install it](https://yarnpkg.com/en/docs/install) and just run `yarn` to continue.
 
 If you don't want to use Yarn run `npm install` to install needed Node packages.
 
