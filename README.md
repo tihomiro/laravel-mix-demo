@@ -16,7 +16,7 @@ My name is Tihomir Opacic, I run development company [Orange Hill Development](h
 
 As soon as the video is released I will update this page to include the talk recording.
 
-![](https://raw.githubusercontent.com/tihomiro/laravel-mix-demo/master/resources/assets/images/video-placeholder.png)
+[![Tihomir Opacic](https://img.youtube.com/vi/tqiK9Hwzhb4/0.jpg)](https://www.youtube.com/watch?v=tqiK9Hwzhb4)
 
 # What is Laravel Mix?
 
