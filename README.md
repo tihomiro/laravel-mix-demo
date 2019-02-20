@@ -65,7 +65,7 @@ Now, from the command line, you may run `npm run watch` to watch your files for 
 
 ### Open the dev URL
 
-This setup assumes that you've set-up your local environment to use `laravel-mix-demo.dev` as your testing URL.
+This setup assumes that you've set-up your local environment to use `laravel-mix-demo.test` as your testing URL.
 
 If you use [Laravel Valet](https://laravel.com/docs/5.4/valet), all you need to do is clone this repo in a folder named `laravel-mix-demo` which is watched by Valet and you're good to go - no additional configuration needed!
 

@@ -64,7 +64,7 @@ mix.js('resources/assets/js/app.js', 'public/js')
          * Now, when you modify a script or PHP file, watch as the browser instantly refreshes the page
          * to reflect your changes.
          */
-        proxy: 'laravel-mix-demo.dev'
+        proxy: 'laravel-mix-demo.test'
     });
 
 /**
